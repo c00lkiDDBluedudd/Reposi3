@@ -1,16 +1,16 @@
-Package: com.supermamon.newpackage
+Package: com.c00lkiDDBluedudd.slydreimagined
 Version: 2.0.0-1
 Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
+Maintainer: Reposi3 <sheldonbaboy1119@gmail.com>
+Depends: firmware (>11.0), ellekit, preferenceloader
+Architecture: iphoneos-arm64
+Filename: ./debs/com.c00lkiDDBluedudd.slydreimagined_2.0.0-1_iphoneos-arm.deb
 Size: 854
 MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+Description: Rootless revive of slyd from nepeta. Firmware should be greater than 11.0
+Name: Slyd Reimagined
+Author: Reposi3 <sheldonbaboy1119@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.slydreimagined
 
 Package: com.supermamon.oldpackage
 Version: 1.0.0-1
