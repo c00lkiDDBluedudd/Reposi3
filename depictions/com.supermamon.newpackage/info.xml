@@ -1,16 +1,16 @@
 <package>
-	<id>com.supermamon.fullpackage</id>
+	<id>com.c00lkiDDBluedudd.SlydReimagined</id>
 	<name>Full Package</name>
 	<version>2.0.0-1</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
+			<miniOS>11</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>mobilesubstrate</package>
+		<package>ElleKit</package>
 	</dependencies>
-	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
+	<shortDescription>This is a sample new package. Firmware should be greater than 11.0</shortDescription>
 	<descriptionlist>
 		<description>This is an package will full depictions.</description>
 		<description>It has more description lines.</description>
