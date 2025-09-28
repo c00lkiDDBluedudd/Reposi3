@@ -4,13 +4,13 @@ Section: Tweaks
 Maintainer: Reposi3 <sheldonbaboy1119@gmail.com>
 Depends: firmware (>11.0), ellekit, preferenceloader
 Architecture: iphoneos-arm64
-Filename: ./debs/com.c00lkiDDBluedudd.slydreimagined_2.0.0-1_iphoneos-arm.deb
+Filename: ./debs/com.c00lkiDDBluedudd.slydreimagined_2.0.0-1_iphoneos-arm64.deb
 Size: 854
 MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
 Description: Rootless revive of slyd from nepeta. Firmware should be greater than 11.0
 Name: Slyd Reimagined
-Author: Reposi3 <sheldonbaboy1119@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.slydreimagined
+Author: c00lkiDDBluedudd <sheldonbaboy1119@gmail.com>
+Depiction: https://c00lkiddbluedudd.github.io/Reposi3/?p=com.c00lkiDDBluedudd.slydreimagined
 
 Package: com.supermamon.oldpackage
 Version: 1.0.0-1
